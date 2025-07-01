@@ -12,11 +12,11 @@ The Number Guessing Game is a simple console-based game where:
 
 
 **💡 Features:**
-  ~Uses random number generation with rand() function.
+  - Uses random number generation with rand() function.
 
-  ~Basic input/output and conditional logic.
+  - Basic input/output and conditional logic.
 
-  ~Encourages logical thinking.
+  - Encourages logical thinking.
 
 
   ------------------------------------------------------------------------------------------------
