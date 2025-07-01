@@ -1,1 +1,1 @@
-# Number-guessing-Game-using-C
+# Some-Mini-Projects-in-C-programming
