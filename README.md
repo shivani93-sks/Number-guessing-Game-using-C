@@ -1,22 +1,17 @@
-**🎯 1. Number Guessing Game (in C)**
-📋 Description:
-The Number Guessing Game is a simple console-based game where:
+## 🎯 1. Number Guessing Game (in C)
 
-  -the computer randomly selects a number within a specific range (e.g., 1 to 100).
+📋 **Description:**  
+The Number Guessing Game is a simple console-based game where:  
+- The computer randomly selects a number within a specific range (e.g., 1 to 100).  
+- The player tries to guess the number.  
+- After each guess, the program gives a hint:  
+  - "Too high" if the guess is greater than the actual number.  
+  - "Too low" if the guess is less than the actual number.  
+- The game continues until the player guesses correctly.  
+- The total number of attempts is displayed at the end.
 
-  -The player tries to guess the number.
 
-  -After each guess, the program gives a hint:
-
-  -"Too high" if the guess is greater than the actual number.
-
-  -"Too low" if the guess is less than the actual number.
-
-  -The game continues until the player guesses correctly.
-
-  -The total number of attempts is displayed at the end.
-
-💡 Features:
+**💡 Features:**
   ~Uses random number generation with rand() function.
 
   ~Basic input/output and conditional logic.
