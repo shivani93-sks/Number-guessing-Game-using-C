@@ -22,21 +22,21 @@ The Number Guessing Game is a simple console-based game where:
   ------------------------------------------------------------------------------------------------
 
 
-  **🎲 2. Dice Game (in C)**
-📋 Description:
-  -The Dice Game simulates the rolling of a six-sided die:
+  ## 🎲 2. Dice Game (in C)
+📋 **Description:**
+  - The Dice Game simulates the rolling of a six-sided die:
 
-  -When run, the program randomly selects a number between 1 and 6, simulating a dice roll.
+  - When run, the program randomly selects a number between 1 and 6, simulating a dice roll.
 
-  -The result is displayed as the output.
+  - The result is displayed as the output.
 
-  -You can enhance it to roll multiple times, simulate 2-player games, or include scoring.
+  - You can enhance it to roll multiple times, simulate 2-player games, or include scoring.
 
-💡 Features:
-  ~Uses rand() and srand() to generate random dice rolls.
+💡**Features:**
+  - Uses rand() and srand() to generate random dice rolls.
 
-  ~Can be expanded into a turn-based game.
+  - Can be expanded into a turn-based game.
 
-  ~Great introduction to randomization and game logic in C.
+  - Great introduction to randomization and game logic in C.
 
 
